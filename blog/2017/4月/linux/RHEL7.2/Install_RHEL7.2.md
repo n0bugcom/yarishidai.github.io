@@ -14,6 +14,7 @@
 
 ### [RHEL7.2 ISO Download](https://pan.baidu.com/s/1boX14cB)
 ### [VMware8 Fusion Download](https://pan.baidu.com/s/1gf3hvWZ)
+> VMware8 Fusion 为Mac版本,Windows后续增加
 
 ------
 
