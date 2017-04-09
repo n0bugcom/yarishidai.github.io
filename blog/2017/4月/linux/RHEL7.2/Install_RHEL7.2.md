@@ -9,7 +9,7 @@
 
 
 
-![redhat-logo](https://raw.githubusercontent.com/yarishidai/yarishidai.github.io/master/blog/2017/images/icon/redhat7_icon.png)
+![redhat-logo](https://raw.githubusercontent.com/yarishidai/yarishidai.github.io/master/blog/2017/4%E6%9C%88/images/icon/redhat7_icon.png)
 
 
 ### [RHEL7.2 ISO Download](https://pan.baidu.com/s/1boX14cB)
